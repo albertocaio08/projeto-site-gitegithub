@@ -7,6 +7,7 @@
 }
 body{
     background-color: rgb(204, 157, 248);
+    padding-top: 10px;
 }
 
 main{
@@ -19,13 +20,24 @@ main{
 }
 
 h1{
+    padding: 10px;
     font-size: 2em;
     color: rgb(58, 0, 112)
+    
+}
+
+img.imagem{
+    padding: 10px;
+}
+
+p.artigo{
+    padding: 10px;
 }
 
 
 h2{
     font-size: 1.5em;
+    padding: 10px;
     color: rgb(58, 0, 112);
 }
 
