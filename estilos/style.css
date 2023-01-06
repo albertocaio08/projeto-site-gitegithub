@@ -74,7 +74,7 @@ a.centralizado{
 footer{
     background-color: rgba(58, 0, 112, 0.816);
     color: white;
-    padding: 10px;
+    padding: 10px 10px 20px 10px;
     margin: 0px -10px 0px -10px;
     text-align: center;
 }
