@@ -3,6 +3,10 @@
     font-size: 16px;
 }
 
+*{
+    margin: 0px;
+}
+
 body{
     background-color: rgb(204, 157, 248);
 }
@@ -11,10 +15,11 @@ main{
     background-color: white;
     min-width: 230px;
     max-width: 500px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
     margin: auto;
+    mar
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
