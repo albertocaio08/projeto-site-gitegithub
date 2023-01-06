@@ -34,3 +34,8 @@ a{
     font-weight: bold;
     color: rgb(26, 26, 255);
 }
+
+a.centralizado{
+    margin:40%;
+    
+}
